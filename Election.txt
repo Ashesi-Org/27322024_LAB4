@@ -1,0 +1,9 @@
+[
+  {
+    "Name": "ASC Elections",
+    "ID": "45",
+    "Position": "JEC Chairperson",
+    "Candidate": "Kwame Ofori",
+    "Votes": "100"
+  }
+]
